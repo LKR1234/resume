@@ -22,6 +22,6 @@
     <br>그래서 저는 상대와의 대화를 할 때 귀담아 듣고 공감을 하다보면 상대방이 지금 무엇을 원하는지 알 수 있기 때문에 항상 집중해서 경청을 하는 습관을 가졌습니다.
     
    
-
+![iOS badge](https://img.shields.io/badge/-AutoCAD-green)   ![iOS badge](https://img.shields.io/badge/-Teaching1-yellowgreen)
     
     
