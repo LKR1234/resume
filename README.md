@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HELLO&fontSize=70&fontAlignY=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=README.md&fontSize=70&fontAlignY=50&animation=twinkling)
 ## :bookmark_tabs::bookmark_tabs::bookmark_tabs::bookmark_tabs: 자기소개서 :bookmark_tabs::bookmark_tabs::bookmark_tabs::bookmark_tabs:
 
 
